@@ -50,7 +50,7 @@
     </header>
     <div class="container">
         <p>This is a simple webpage created using HTML and CSS.</p>
-        <p>This paragraph is also in English. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum libero eget libero commodo, a feugiat eros consequat. Vivamus dapibus hendrerit purus at commodo.</p>
+        <p>This paragraph is also in English.</p>
     </div>
     <footer>
         <p>&copy; 2024 Simple Webpage. All rights reserved.</p>
